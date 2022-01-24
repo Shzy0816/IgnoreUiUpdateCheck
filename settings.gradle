@@ -1,0 +1,3 @@
+rootProject.name = "FreeUiCheck"
+include ':app'
+include ':mylibrary'
