@@ -26,9 +26,9 @@ Step 2. Add the dependency
 Step 3. Initialize in Application
 
 	public class MyApplication extends Application {
-    	    @Override
-    	    protected void attachBaseContext(Context base) {
-        	super.attachBaseContext(base);
-        	IgnoreUiUpdateCheck.freeReflection(base);
-    	    }
+    		@Override
+    		protected void attachBaseContext(Context base) {
+        		Super.attachBaseContext(base);
+        		IgnoreUiUpdateCheck.freeReflection(base);
+    	    	}
 	}
