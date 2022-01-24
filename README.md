@@ -12,6 +12,7 @@ Add it in your root build.gradle at the end of repositories:
 	
 导入依赖
 Step 2. Add the dependency
+
 	dependencies {
 	        implementation 'com.github.Shzy0816:FreeUiCheck:Tag'
 	}
