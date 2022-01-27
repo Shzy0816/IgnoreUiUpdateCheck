@@ -33,7 +33,7 @@ Step 3. Initialize in Application
     }
     }
     
-在子线程中更新UI
+4.在子线程中更新UI
 
 Step 4. Update View in sub thread
 	
